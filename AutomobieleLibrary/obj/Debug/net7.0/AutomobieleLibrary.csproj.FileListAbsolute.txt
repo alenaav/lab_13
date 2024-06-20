@@ -1,0 +1,12 @@
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.csproj.AssemblyReference.cache
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.AssemblyInfoInputs.cache
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.AssemblyInfo.cs
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.csproj.CoreCompileInputs.cache
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/bin/Debug/net7.0/AutomobieleLibrary.deps.json
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/bin/Debug/net7.0/AutomobieleLibrary.dll
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/bin/Debug/net7.0/AutomobieleLibrary.pdb
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.dll
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/refint/AutomobieleLibrary.dll
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/AutomobieleLibrary.pdb
+/Users/alenaandrienko/Projects/lab_13/AutomobieleLibrary/obj/Debug/net7.0/ref/AutomobieleLibrary.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lab_13/1.0.0": {
+        "dependencies": {
+          "AutomobieleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "lab_13.dll": {}
+        }
+      },
+      "AutomobieleLibrary/1.0.0": {
+        "runtime": {
+          "AutomobieleLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutomobieleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
